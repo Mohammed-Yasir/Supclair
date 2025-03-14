@@ -1,0 +1,26 @@
+﻿Supplier ID,Supplier name,Location
+1,Supplier 1,Bangalore
+10,Supplier 2,Bangalore
+11,Supplier 3,Delhi
+12,Supplier 3,Chennai
+13,Supplier 3,Mumbai
+14,Supplier 3,Kolkata
+15,Supplier 3,Bangalore
+16,Supplier 4,Chennai
+17,Supplier 4,Kolkata
+18,Supplier 4,Mumbai
+19,Supplier 4,Bangalore
+2,Supplier 1,Mumbai
+20,Supplier 4,Delhi
+21,Supplier 5,Bangalore
+22,Supplier 5,Chennai
+23,Supplier 5,Mumbai
+24,Supplier 5,Delhi
+25,Supplier 5,Kolkata
+3,Supplier 1,Delhi
+4,Supplier 1,Chennai
+5,Supplier 1,Kolkata
+6,Supplier 2,Mumbai
+7,Supplier 2,Delhi
+8,Supplier 2,Chennai
+9,Supplier 2,Kolkata
